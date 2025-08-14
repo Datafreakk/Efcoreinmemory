@@ -1,0 +1,19 @@
+# Rider / IntelliJ
+.idea/
+*.iml
+/_ReSharper.Caches/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+packages/
+
+# Optional: ignore solution file if not needed
+*.sln
+
+
